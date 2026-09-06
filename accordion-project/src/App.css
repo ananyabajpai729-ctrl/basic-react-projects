@@ -11,6 +11,15 @@
   padding: 10px 20px;
 }
 
+.accordion button{
+  background-color: #28282B;
+  width: 200px;
+  color: #ffffff;
+  padding: 10px 20px;
+  font-weight: bold;
+  margin: 30px;
+  cursor:pointer;
+}
 .title{
   color:#ffffff;
   display:flex;
